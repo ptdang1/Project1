@@ -1,0 +1,45 @@
+#topbanner{
+width:975px;
+height:100;
+margin: auto;
+font-family:sans-serif;
+font-style:italic;
+font-weight:bold;
+text-align: center;
+background-color:#909090;
+border-style:solid;
+}
+
+#body{
+width:975px;
+height:300px;
+margin:auto;
+font-size: 14px;
+font-family:sans-serif;
+background-color:white;
+border-style:solid;
+vertical-align: top;
+}
+
+#mainnav{
+width:200px;
+height:200px;
+padding:15px;
+font-size: 16px;
+text-align: left;
+background-color:white;
+border-style: ridge;
+vertical-align: top;
+}
+
+#footer{
+width:975px;
+height: 50px;
+margin: auto;
+padding:15px;
+font-family:sans-serif;
+text-align: center;
+background-color:#B0B0B0;
+border-style:solid;
+}
+
